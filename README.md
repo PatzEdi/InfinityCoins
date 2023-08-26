@@ -1,5 +1,5 @@
 # InfinityCoins
- Generative GAN (Conditional Generative Adversarial Network) to generate imges of mixed world coins.
+ Generative GAN (Conditional Generative Adversarial Network) to generate images of mixed world coins.
 
 
 # User Notice:
