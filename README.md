@@ -17,6 +17,8 @@
  - Experiment with different learning rates
  - Implement weight decay in optimizers.
 
+**I will be uploading the models to GitHub in the coming days**
+
 # GAN Progress and Learning Demo:
 
 **Epoch 1:**
