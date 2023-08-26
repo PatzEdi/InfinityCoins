@@ -1,5 +1,5 @@
 # InfinityCoins
- Generative GAN (Conditional Generative Adversarial Network) to generate images of mixed world coins.
+ A scratch GAN (Generative Adversarial Network) to generate images of mixed world coins using PyTorch
 
 
 # User Notice:
