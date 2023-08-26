@@ -32,7 +32,7 @@
 
 # Usage
 
- # Dataset Preprocessing
+ ## Dataset Preprocessing
  - The data set used in this project was gathered using Kaggle, and can be found [here](https://www.kaggle.com/datasets/wanderdust/coin-images). Credits to [Pablo Lopez Santori](https://www.kaggle.com/wanderdust) for creating this dataset.
  - However, the dataset linked above was most likely used to train on classification tasks. What we needed, was a generative model to generate images of all these coins by mixing them together. So, I created [this script](/data_mixer.py) that automatically converges each file in each class folder into one singular folder. Credits to the [FinderZ](https://github.com/PatzEdi/FinderZ) library for making this really simple.
  - Let's look at this [script](/data_mixer.py). Make sure to install [FinderZ](https://github.com/PatzEdi/FinderZ) first, it is a file management library. You can see the **org_path** variable and the **mv_path** variable. The **org_path** variable takes in the path to the dataset linked above. So, it would be something like this: "[/path/before/this]/data/coins/coins/data/train". 
