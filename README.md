@@ -6,7 +6,7 @@
 
  **This is my very first machine learning project. Since I am still learning machine learning and am at the start of it, this is a very early start and is a work in progress. Currently, I am suspecting that the GAN is mode collapsing after too many iterations. I am trying to fix this, so if you have any suggestions, create an issue, I would love to hear what your solution may be!**
 
- To solve mode collapse, I have currently tried these strategies:
+ To attempt to solve mode collapse, I have currently tried these strategies:
  - Implementing a random seed through either numpy or torch.
  - Adding/decreasing layers within the neural net
  - Adding more randomness by flipping images during training through transformer
