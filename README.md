@@ -60,3 +60,9 @@
 - When putting in bigger values for generated images during training, memory may be taken up to a large extent. Lack of memory will lead to washed out generations.
 - When putting in bigger values for generated images, adjust the segmentation layer mask accordingly.
 
+# Credits:
+- [PyTorch](https://pytorch.org/)
+- [FinderZ](https://github.com/PatzEdi/FinderZ)
+- [World Coin Dataset](https://www.kaggle.com/datasets/wanderdust/coin-images)
+- [Python Imaging Library](https://pypi.org/project/Pillow/)
+- [numpy](https://numpy.org)
