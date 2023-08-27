@@ -17,7 +17,11 @@
  - Experiment with different learning rates
  - Implement weight decay in optimizers.
 
-**I will be uploading the models to GitHub in the coming days**
+# Download trained models:
+
+- You can download the models from this [Link](https://drive.google.com/drive/folders/1gb0EM55rxtRiNgmLK9k2ZKYFk7O1QdER)
+
+The models correspond to the hyperparameters defined in the inference.py file.
 
 # GAN Progress and Learning Demo:
 
